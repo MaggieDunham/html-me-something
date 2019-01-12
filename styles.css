@@ -1,0 +1,70 @@
+html {
+    font-family: fantasy;
+}
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+        margin-top: 0px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+    background-color: darkgray;
+    font-size: 70%;
+    
+}
+header h1 {
+    color: darkblue;
+    text-align: center;
+    
+}
+h1 {
+    font-size: 3em;
+}
+h1, h2, {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+}
+nav ul li {
+    text-align: center;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+p {
+    padding: 1.25em;
+    padding-top: 1.25em;
+    padding-right: 1.25em;
+    padding-bottom: 1.25em;
+    padding-left: 1.25em;
+}
+header {
+    padding: 1.90 em 0;
+    padding-top: 1.9em;
+    padding-right: 0px;
+    padding-bottom: 1.9em;
+    padding-left: 0px;
+}
+header, main, footer {
+    background-color: rgb(119, 117, 117);
+    font-size: 1.6em;
+}
+figure {
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    text-align: center;
+}

@@ -27,7 +27,10 @@ h1, h2, {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-
+}
+h2 {
+    color: darkblue;
+    text-align: justify;
 }
 nav ul li {
     text-align: center;
@@ -38,6 +41,8 @@ nav ul li {
     padding-left: 0px;
 }
 p {
+    background-color: lemonchiffon;
+    color: darkblue;
     padding: 1.25em;
     padding-top: 1.25em;
     padding-right: 1.25em;

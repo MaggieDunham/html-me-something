@@ -14,13 +14,11 @@ body {
     
 }
 #my_header  {
+    font-size: 3em;
     color: darkblue;
     text-align: center;   
 }
-h1 {
-    font-size: 3em;
 
-}
 h1, h2, {
     margin: 0;
     margin-top: 0px;

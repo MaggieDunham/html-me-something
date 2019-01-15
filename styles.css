@@ -13,7 +13,7 @@ body {
     font-size: 70%;
     
 }
-.my_header h1 {
+#my_header h1 {
     color: darkblue;
     text-align: center;   
 }

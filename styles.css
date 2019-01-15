@@ -13,10 +13,9 @@ body {
     font-size: 70%;
     
 }
-header h1 {
+.my_header h1 {
     color: darkblue;
-    text-align: center;
-    
+    text-align: center;   
 }
 h1 {
     font-size: 3em;
@@ -40,9 +39,12 @@ nav ul li {
     padding-bottom: 0px;
     padding-left: 0px;
 }
+.paracolor {
+    color: darkblue;
+
+}
 p {
     background-color: lemonchiffon;
-    color: darkblue;
     padding: 1.25em;
     padding-top: 1.25em;
     padding-right: 1.25em;

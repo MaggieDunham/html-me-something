@@ -19,6 +19,8 @@ body {
 }
 h1 {
     font-size: 3em;
+    color: darkblue;
+    text-align: center;
 }
 h1, h2, {
     margin: 0;
